@@ -5,6 +5,9 @@
 # 规范查证过程资料（图片证据、查证报告、规范原文抓取），不入库
 .research/
 .work/
+.scratch*/
+.tmp_research/
+.tmp_space/
 
 # 系统文件
 .DS_Store
