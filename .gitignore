@@ -2,6 +2,10 @@
 .dsh-meow/
 .dsh/
 
+# 规范查证过程资料（图片证据、查证报告、规范原文抓取），不入库
+.research/
+.work/
+
 # 系统文件
 .DS_Store
 Thumbs.db
@@ -10,3 +14,4 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+.tmp_gb/
